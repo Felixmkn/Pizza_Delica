@@ -1,6 +1,6 @@
 # Pizza Delivery Project
-#### 30/08/2019
-#### By **Arthur Ochieng**
+#### 38/11/2021
+#### By **Felix Mwangi**
 ## Description
 This is a web application where customers order different sizes of pizzas with one or more toppings. 
 ## Behaviour Driven Development(BDD)
