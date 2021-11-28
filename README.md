@@ -9,7 +9,7 @@ This is a web application where customers order different sizes of pizzas with o
 |Form to be filled| User enters required credentials| Dialog box with respective choices of pizza desired|
 ## Setup/Installation Requirements
 * Create an account on Github
-* Fork the repository from Github:[https://github.com/Arthur-Ochieng/Pizza-Delivery](https://github.com/Arthur-Ochieng/Pizza-Delivery)
+* Fork the repository from Github:[https://github.com/Felixmkn/Pizza_Delica](https://github.com/Felixmkn/Pizza_Delica)
 * Clone the link
 * Open the link from where the repository is saved
 ## Known Bugs
@@ -21,7 +21,7 @@ None.
 * Bootstrap - For styling the interface
 * jQuery - To easen use of JavaScript on your website
 ## Live site
-[https://arthur-ochieng.github.io/Pizza-Delivery/](https://arthur-ochieng.github.io/Pizza-Delivery/)
+[https://Felixmkn.github.io/Pizza_Delica/](https://Felixmkn.github.io/Pizza_Delica/)
 ## Support and contact details
 You can get to me through felixmkn@gmail.com.
 ### License.
