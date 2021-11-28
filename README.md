@@ -23,6 +23,6 @@ None.
 ## Live site
 [https://arthur-ochieng.github.io/Pizza-Delivery/](https://arthur-ochieng.github.io/Pizza-Delivery/)
 ## Support and contact details
-You can get to me through johnarthur016@gmail.com.
+You can get to me through felixmkn@gmail.com.
 ### License.
 MIT Copyright (c) 2021 **[MITlicense](LICENSE)**
