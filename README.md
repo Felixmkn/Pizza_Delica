@@ -1,6 +1,6 @@
 # Pizza Delivery Project
-#### 30/08/2019
-#### By **Arthur Ochieng**
+#### 28/11/2021
+#### By **Felix Mwangi**
 ## Description
 This is a web application where customers order different sizes of pizzas with one or more toppings. 
 ## Behaviour Driven Development(BDD)
@@ -23,6 +23,6 @@ None.
 ## Live site
 [https://arthur-ochieng.github.io/Pizza-Delivery/](https://arthur-ochieng.github.io/Pizza-Delivery/)
 ## Support and contact details
-You can get to me through johnarthur016@gmail.com.
+You can get to me through felixmkn@gmail.com.
 ### License.
-MIT Copyright (c) 2019 **[MITlicense](LICENSE)**
+MIT Copyright (c) 2021 **[MITlicense](LICENSE)**
