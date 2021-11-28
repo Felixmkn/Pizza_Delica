@@ -3,7 +3,7 @@
     font-size: 2em;
 }
 body{
-    background-image: url(../css/wood.jpg);
+    background-image: url(../css/piz-back.jpg);
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,15 +12,15 @@ body{
     font-family: 'Brawler', serif;
 }
 .top {
-    background-color: black;
-    color:#FDB913;
+    background-color: rgb(83, 80, 80);
+    color:#fd13d6;
     height: 200px;
-    border-bottom: 5px solid #FDB913;
+    border-bottom: 5px solid #906a97;
 }
 .jumbtron {
     margin-right: 700px;
     background-color: inherit;
-    color:  #FDB913;
+    color:  #0e19ad;
     margin-top: 60px;
 }
 .about {
@@ -29,7 +29,7 @@ body{
     font-weight: bold;
     margin-left: 50px;
     margin-right: 50px;
-    color:  #FDB913;
+    color:  #0e0d0d;
 }
 .card {
     width: 80%;
@@ -40,25 +40,25 @@ body{
     border-radius: 12px;
     max-width: 700px;
     position: relative;
-    color:  #FDB913;
+    color:  #fd13fd;
 }
 h2 {
     text-align: center;
-    color: #FDB913
+    color: #c57ebf
 }
 .order {
     margin-left: 100px;
     margin-right: 100px;
-    color: #FDB913
+    color: #d87fd4
   }
 #submit-pizza {
     float: right;
     margin-right: 200px;
-    color: #FDB913
+    color: #af6ac0
 }
 #price-content {
     text-align: center;
-    color: #FDB913
+    color: #d613fd
 }
 #order-details {
     border: 2px solid black;
@@ -67,7 +67,7 @@ h2 {
     padding-top: 10px;
     padding-right: 50px;
     border-style: dashed;
-    color: #FDB913
+    color: #835885
 }
 #order-details>h5, h5 {
     font-family: 'Kaushan Script', cursive;
@@ -75,10 +75,10 @@ h2 {
 .footer {
     text-align: center;
     font-size: 25px;
-    color: #FDB913
+    color: #66315f
 }
 .footer-link {
-    color: #FDB913
+    color: #815b81
 }
 .icons{
     size: 50%;
@@ -86,7 +86,7 @@ h2 {
     margin-right: 10px;
 }
 .back h5{
-    color:#FDB913;
+    color:#864386;
     margin-left: 10px;
     font-family: 'Kaushan Script', cursive;
     font-size: 3em;
@@ -99,11 +99,11 @@ h2 {
     margin-top: 10px;
 }
 .nav-link{
-    color: #FDB913;
+    color: #b17faa;
 }
 .banner{
-    color: #FDB913;
-    background-image: url(../css/p4.jpg);
+    color: #6d2c6d;
+    background-image: url(../css/pizza4.jpg);
     height: 600px;
 }
 .banner h1{
